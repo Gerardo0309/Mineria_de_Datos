@@ -1,5 +1,6 @@
 ## Mineria_de_Datos
-#Grupo 002
+# Grupo 002
 
 
-#Fase I
+# Fase I
+Mapa mental
