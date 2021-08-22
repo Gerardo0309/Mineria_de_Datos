@@ -8,4 +8,4 @@
 #
 [Examen diagnostico](https://github.com/Gerardo0309/Mineria_de_Datos/blob/main/Examen_1849522.pdf)
 #
-[Ejercicio base de datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Equipo_%23_EjercicioBaseDeDatos.pdf)
+[Ejercicio base de datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Equipo_3_Ejercicio%20Base%20de%20Datos.pdf)
