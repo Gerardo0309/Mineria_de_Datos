@@ -21,3 +21,5 @@
 [Preguntas_Patrones_Secueciales_3](https://github.com/aadrieel/MineriaDeDatos/blob/main/Pregunta_Presentaci%C3%B3n_Patrones_Secuenciales_3.pdf)
 #
 [Practica de visualización](https://github.com/aadrieel/MineriaDeDatos/blob/main/Visualizaci%C3%B3n_3.ipynb)
+#
+[Avance del PIA II](https://github.com/aadrieel/MineriaDeDatos/blob/main/AvancePIA_II_002_3.ipynb)
