@@ -23,3 +23,5 @@
 [Practica de visualización](https://github.com/aadrieel/MineriaDeDatos/blob/main/Visualizaci%C3%B3n_3.ipynb)
 #
 [Avance del PIA II](https://github.com/aadrieel/MineriaDeDatos/blob/main/AvancePIA_II_002_3.ipynb)
+#
+[Tecnica de mineria](https://github.com/aadrieel/MineriaDeDatos/blob/main/T%C3%A9cnica_Miner%C3%ADa_RL_3.ipynb)
