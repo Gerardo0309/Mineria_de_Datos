@@ -16,7 +16,7 @@
 #
 [Avance 1 Pia](https://github.com/aadrieel/MineriaDeDatos/blob/main/Avance1_PIA_Equipo_3.ipynb)
 #
-#Fase II
+# Fase II
 #
 [Presentación técnicas](https://github.com/aadrieel/MineriaDeDatos/blob/main/Presentacion_PatronesSecuenciales_3.pdf)
 #
@@ -26,7 +26,7 @@
 #
 [Avance del PIA II](https://github.com/aadrieel/MineriaDeDatos/blob/main/AvancePIA_II_002_3.ipynb)
 #
-#Fase III
+# Fase III
 #
 [Tecnica de mineria](https://github.com/aadrieel/MineriaDeDatos/blob/main/T%C3%A9cnica_Miner%C3%ADa_RL_3.ipynb)
 #
