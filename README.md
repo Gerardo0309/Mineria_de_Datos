@@ -31,3 +31,5 @@
 [Tecnica de mineria](https://github.com/aadrieel/MineriaDeDatos/blob/main/T%C3%A9cnica_Miner%C3%ADa_RL_3.ipynb)
 #
 [Notebook Final](https://github.com/aadrieel/MineriaDeDatos/blob/main/Notebook_Final_3.ipynb)
+#
+[Poster Quejas Financieras en USA](https://github.com/aadrieel/MineriaDeDatos/blob/main/poster%20listo.png)
